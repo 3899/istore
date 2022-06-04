@@ -67,3 +67,4 @@ jobs:
           files: "*.ipk"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
